@@ -18,7 +18,7 @@ Eu não sou só "mais um desenvolvedor" – minha experiência em atendimento ao
 me fez entender como resolver problemas de maneira eficiente e com empatia, sempre buscando a melhor experiência para o usuário.
 
 Características
-🌊 Calmo: Eu acredito que a calma é essencial, seja para resolver bugs ou para lidar com situações desafiadoras.
+🌊 Calmo: Eu acredito que a calma é essencial, seja para resolver problemas ou para lidar com situações desafiadoras.
 
 💪 Resiliente: A vida não é só sobre acertos, mas sobre aprender com os erros.
 
